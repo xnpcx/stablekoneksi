@@ -1,0 +1,19 @@
+#!/system/bin/sh
+echo -n "silahkan buka tab windows 2 dalam 5 detik enter continue"
+read silahkan
+echo "5"
+sleep 2
+clear
+echo "4"
+sleep 2
+clear
+echo "3"
+sleep 2
+clear
+echo "2"
+sleep 2
+clear
+echo "1"
+sleep 2
+clear
+iftop
