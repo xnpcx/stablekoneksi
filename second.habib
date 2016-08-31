@@ -1,0 +1,24 @@
+#!/system/bin/sh
+ifconfig rmnet0
+sleep 1
+iptables
+sleep 1
+ip link
+clear
+ifconfig lo
+sleep 1
+ip link
+sleep 1
+iptables
+sleep 1
+ip link
+clear
+netstat
+ip link
+clear
+pm
+ip link
+clear
+echo -n "buka tab windows 3 install second.habib press enter continue"
+read buka
+ping localhost
